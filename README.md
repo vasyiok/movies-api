@@ -1,2 +1,2 @@
 #Run the project
-To run the mock api server use `yarn server` and the server will be run on the `localhost:3005`
+To run the mock API server, use `yarn server`, and the server will be run on localhost:3005
